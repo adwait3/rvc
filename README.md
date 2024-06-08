@@ -7,3 +7,5 @@ flag{n0i5e_reV34l_Ftw}
 
 
 
+flag{st4ndard_op3rat1ons_w1th_rev}
+
